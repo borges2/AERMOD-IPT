@@ -7,7 +7,7 @@ AERMOD-IPT is a desktop application designed to automate the preparation, config
 This repository provides all necessary resources to reproduce the simulations presented in the manuscript.
 
 - Source code repository: https://github.com/borges2/AERMOD
-- (Add Zenodo DOI here after publication)
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20030471)
 
 ---
 
